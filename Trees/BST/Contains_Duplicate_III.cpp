@@ -1,4 +1,9 @@
- bool containsNearbyAlmostDuplicate(vector<int>& nums, int k, int t) 
+/*
+Idea : Use sliding window with multiset or hasmap
+
+*/
+
+bool containsNearbyAlmostDuplicate(vector<int>& nums, int k, int t) 
     {
         
       if( nums.size()<2 || k==0)return false; 

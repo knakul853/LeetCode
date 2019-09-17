@@ -12,3 +12,11 @@
 
 /// : https://leetcode.com/problems/grumpy-bookstore-owner/submissions/
 /// : https://pastebin.com/fVtwus73
+
+
+/// : https://leetcode.com/problems/subarrays-with-k-different-integers/ (HARD)
+/// : https://pastebin.com/LTJQcQhw
+
+
+         TODO 
+     /// :     https://leetcode.com/problems/moving-stones-until-consecutive-ii/

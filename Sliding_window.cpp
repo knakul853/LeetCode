@@ -17,6 +17,20 @@
 /// : https://leetcode.com/problems/subarrays-with-k-different-integers/ (HARD)
 /// : https://pastebin.com/LTJQcQhw
 
+/// : https://leetcode.com/problems/longest-turbulent-subarray/
+/// : https://pastebin.com/BPmR8fQL
 
+/// : https://leetcode.com/problems/longest-repeating-character-replacement/
+/// : https://pastebin.com/weXfCten
+
+/// : https://leetcode.com/problems/permutation-in-string/
+/// : https://pastebin.com/DHWRZAvE
+
+
+/// : https://leetcode.com/problems/longest-substring-without-repeating-characters/
+/// : https://pastebin.com/iFFBjsmU
+/// : https://pastebin.com/Rscc37Ga
+
+/// : 
          TODO 
      /// :     https://leetcode.com/problems/moving-stones-until-consecutive-ii/

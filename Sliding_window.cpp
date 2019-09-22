@@ -33,5 +33,8 @@
 
 /// : https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
 /// : https://pastebin.com/CP9Z85CB
+
+/// : https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
+/// : https://pastebin.com/WcFPyTRG
          TODO 
      /// :     https://leetcode.com/problems/moving-stones-until-consecutive-ii/

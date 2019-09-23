@@ -1,3 +1,9 @@
+All problems from leetcode of sliding window technique .
+https://www.youtube.com/watch?v=kh-RHRd4KZ4
+https://medium.com/@codingfreak/data-structure-sliding-window-technique-problems-7c7f1f32597
+
+
+
 /// : https://leetcode.com/problems/diet-plan-performance
 /// : https://pastebin.com/i1hxx9Xv
 
@@ -36,5 +42,11 @@
 
 /// : https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
 /// : https://pastebin.com/WcFPyTRG
+
+/// : https://leetcode.com/problems/sliding-window-median
+/// : https://pastebin.com/L4eqrkpd
+
+/// : https://leetcode.com/problems/moving-stones-until-consecutive-ii/
+/// : https://pastebin.com/dbeb8pZY
          TODO 
      /// :     https://leetcode.com/problems/moving-stones-until-consecutive-ii/

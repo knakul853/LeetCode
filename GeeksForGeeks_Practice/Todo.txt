@@ -1,0 +1,3 @@
+Distinct palindromic substrings : 
+
+https://practice.geeksforgeeks.org/problems/distinct-palindromic-substrings/0/?track=sp-strings&batchId=152
